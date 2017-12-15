@@ -9,6 +9,6 @@
 <pre><code>npm install</code></pre>
 <pre><code>npm install --save firebase</code></pre>
 Then
-<pre><code>react-native run-adnroid</code></pre>
+<pre><code>react-native run-android</code></pre>
 
 <p>To generate signed APK follow instructions of this link: https://facebook.github.io/react-native/docs/signed-apk-android.html </p>
